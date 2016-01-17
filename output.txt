@@ -1,0 +1,186 @@
+6 is successfully inserted
+The head is 6
+
+44 is successfully inserted
+The head is 6
+
+10 is successfully inserted
+The head is 10
+
+17 is successfully inserted
+The head is 6
+
+29 is successfully inserted
+The head is 29
+
+31 is successfully inserted
+The head is 29
+
+48 is successfully inserted
+The head is 48
+
+50 is successfully inserted
+The head is 6
+
+8 is successfully inserted
+The head is 8
+
+22 is successfully inserted
+The head is 8
+
+23 is successfully inserted
+The head is 23
+
+24 is successfully inserted
+The head is 8
+
+30 is successfully inserted
+The head is 30
+
+32 is successfully inserted
+The head is 30
+
+45 is successfully inserted
+The head is 45
+
+55 is successfully inserted
+The head is 6
+
+3 is successfully inserted
+The head is 3
+
+37 is successfully inserted
+The head is 3
+
+7 is successfully inserted
+The head is 7
+
+25 is successfully inserted
+The head is 3
+
+15 is successfully inserted
+The head is 15
+
+33 is successfully inserted
+The head is 15
+
+28 is successfully inserted
+The head is 28
+
+41 is successfully inserted
+The head is 3
+
+12 is successfully inserted
+The head is 12
+
+18 is successfully inserted
+The head is 12
+
+Minimum is 3
+3 is extracted
+The head is 37
+
+Minimum is 6
+6 is extracted
+The head is 10
+
+Minimum is 7
+7 is extracted
+The head is 25
+
+Minimum is 8
+8 is extracted
+The head is 22
+
+Minimum is 10
+10 is extracted
+The head is 17
+
+Minimum is 12
+12 is extracted
+The head is 17
+
+Minimum is 15
+15 is extracted
+The head is 33
+
+Minimum is 17
+17 is extracted
+The head is 18
+
+Minimum is 18
+18 is extracted
+The head is 33
+
+Minimum is 22
+22 is extracted
+The head is 23
+
+Minimum is 23
+23 is extracted
+The head is 24
+
+Minimum is 24
+24 is extracted
+The head is 28
+
+Minimum is 25
+25 is extracted
+The head is 33
+
+Minimum is 28
+28 is extracted
+The head is 33
+
+Minimum is 29
+29 is extracted
+The head is 31
+
+Minimum is 30
+30 is extracted
+The head is 31
+
+Minimum is 31
+31 is extracted
+The head is 32
+
+Minimum is 32
+32 is extracted
+The head is 33
+
+Minimum is 33
+33 is extracted
+The head is 41
+
+Minimum is 37
+37 is extracted
+The head is 41
+
+Minimum is 41
+41 is extracted
+The head is 44
+
+Minimum is 44
+44 is extracted
+The head is 45
+
+Minimum is 45
+45 is extracted
+The head is 55
+
+Minimum is 48
+48 is extracted
+The head is 50
+
+Minimum is 50
+50 is extracted
+The head is 55
+
+Minimum is 55
+55 is extracted
+
+Error: Cannot show minimum
+The Binomial heap is EMPTY
+
+Error: Cannot extract anything
+The Binomial heap is EMPTY
